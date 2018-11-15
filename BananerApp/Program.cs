@@ -11,6 +11,8 @@ namespace BananerApp
         static void Main(string[] args)
         {
             Console.WriteLine("Bananer er alt.");
+
+            Console.WriteLine("Mit navn er hr. Banan");
         }
     }
 }
