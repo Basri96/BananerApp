@@ -18,6 +18,7 @@ namespace BananerApp
 	        Console.WriteLine("sut");
 
             Console.WriteLine("Bananer eller Ananas på pizza");
+	        Console.WriteLine("niggachu");
         }
     }
 }
