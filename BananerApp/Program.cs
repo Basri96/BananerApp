@@ -16,8 +16,10 @@ namespace BananerApp
             Console.WriteLine("Mit navn er hr. Banan");
 
 	        Console.WriteLine("sut");
-
+            
             Console.WriteLine("Bananer eller Ananas på pizza");
+
+            Console.WriteLine("Ananas er svaret.");
         }
     }
 }
